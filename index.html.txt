@@ -1,0 +1,10 @@
+<!DOC TYPE html>
+<html>
+<head>
+   <title>/<title>
+</html>
+<body>
+<script scr="script.js">
+</script>
+</body>
+</html>   
